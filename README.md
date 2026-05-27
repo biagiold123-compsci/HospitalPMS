@@ -53,7 +53,7 @@ Functional interface — LabelSetter in DashboardPanel is a custom @FunctionalIn
 Getting Started
 Prerequisites
 
-Java 17+ (Java 21 recommended)
+Java 17 or later (Java 21 recommended)
 Eclipse IDE (the project includes .classpath and is configured for Eclipse out of the box)
 
 Run in Eclipse
@@ -78,4 +78,3 @@ Records are stored as serialized binary files in your home directory:
 ├── patients.dat
 ├── doctors.dat
 └── appointments.dat
-These files are created automatically on first launch. Deleting them resets the application to the demo seed data.
